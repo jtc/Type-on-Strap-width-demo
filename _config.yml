@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
-url: "https://sylhare.github.io"
+baseurl: "/Type-on-Strap-width-demo"
+url: "https://jtc.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -89,5 +89,5 @@ sass:
   sass_dir: _sass
   style: :compressed
 plugins: [jekyll-paginate, jekyll-seo-tag]
-theme: type-on-strap # If using the theme as a jekyll theme gem
+# theme: type-on-strap # If using the theme as a jekyll theme gem
 exclude: ["Gemfile", "Gemfile.lock", "type-on-strap.gemspec", "*.gem", "LICENSE", "README.md", "screenshot.png"]
